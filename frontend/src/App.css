@@ -1,0 +1,78 @@
+.form {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  /* Container cho biểu mẫu đăng ký */
+.signup-container {
+    width: 90%; /* Sử dụng 90% chiều rộng của màn hình */
+    max-width: 500px; /* Đặt chiều rộng tối đa của container */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAF3EA;
+  }
+  
+  /* Kiểu cho các trường nhập */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .text-danger {
+    color: red;
+  }
+  
+  /* Kiểu cho nút đăng ký */
+  .btn-primary {
+    width: 100%;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px; /* Thêm khoảng cách dưới nút đăng ký */
+    background-color: red; /* Màu nền của nút */
+    color: black; /* Màu chữ của nút */
+  }
+  
+  /* Kiểu cho nút Facebook và Google */
+  .social-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .btn-facebook,
+  .btn-google {
+    flex: 1; /* Duy trì cùng một kích thước cho cả hai nút */
+    padding: 15px;
+    border-radius: 8px;
+    background-color: red; /* Màu nền của nút */
+    color: black; /* Màu chữ của nút */
+  }
+  
+  .btn-facebook {
+    background-color: crimson; /* Màu nền của nút Facebook */
+    margin-right: 5px; /* Tạo khoảng cách giữa các nút */
+  }
+  
+  .btn-google {
+    background-color: #ccc; /* Màu nền của nút Google */
+    margin-left: 5px; /* Tạo khoảng cách giữa các nút */
+  }
+  
+  

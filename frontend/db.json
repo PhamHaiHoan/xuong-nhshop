@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Products 1",
+      "price": 10000000,
+      "description": "Điện thoại di động cao cấp với các tính năng hiện đại.",
+      "image": "https://picsum.photos/id/10/300/300",
+      "discount": 50,
+      "featured": true
+    },
+    {
+      "id": "2",
+      "name": "Products 2",
+      "price": 20000000,
+      "description": "Laptop mạnh mẽ với hiệu suất cao cho công việc và giải trí.",
+      "image": "https://picsum.photos/id/11/300/300",
+      "discount": 30,
+      "featured": true
+    },
+    {
+      "id": "3",
+      "name": "Products 3",
+      "price": 500000,
+      "description": "Tai nghe không dây chất lượng cao với âm thanh sống động.",
+      "image": "https://picsum.photos/id/12/300/300",
+      "discount": 10,
+      "featured": false
+    },
+    {
+      "id": "4",
+      "name": "Products 4",
+      "price": 10000000,
+      "description": "Điện thoại di động cao cấp với các tính năng hiện đại.",
+      "image": "https://picsum.photos/id/13/300/300",
+      "discount": 70,
+      "featured": false
+    },
+    {
+      "id": "5",
+      "name": "Products 5",
+      "price": 20000000,
+      "description": "Laptop mạnh mẽ với hiệu suất cao cho công việc và giải trí.",
+      "image": "https://picsum.photos/id/14/300/300",
+      "discount": 40,
+      "featured": true
+    },
+    {
+      "id": "6",
+      "name": "Products 6",
+      "price": 500000,
+      "description": "Tai nghe không dây chất lượng cao với âm thanh sống động.",
+      "image": "https://picsum.photos/id/16/300/300",
+      "discount": 20,
+      "featured": true
+    },
+    {
+      "id": "7",
+      "name": "Products 7",
+      "price": 10000000,
+      "description": "Điện thoại di động cao cấp với các tính năng hiện đại.",
+      "image": "https://picsum.photos/id/17/300/300",
+      "discount": 30,
+      "featured": false
+    },
+    {
+      "id": "8",
+      "name": "Products 8",
+      "price": 20000000,
+      "description": "Laptop mạnh mẽ với hiệu suất cao cho công việc và giải trí.",
+      "image": "https://picsum.photos/id/18/300/300",
+      "discount": 40,
+      "featured": false
+    },
+    {
+      "id": "9",
+      "name": "Products 9",
+      "price": 500000,
+      "description": "Tai nghe không dây chất lượng cao với âm thanh sống động.",
+      "image": "https://picsum.photos/id/19/300/300",
+      "discount": 50,
+      "featured": true
+    },
+    {
+      "id": "10",
+      "name": "Products 10",
+      "price": 500000,
+      "description": "Tai nghe không dây chất lượng cao với âm thanh sống động.",
+      "image": "https://picsum.photos/id/20/300/300",
+      "discount": 80,
+      "featured": true
+    }
+  ]
+}
